@@ -18,6 +18,8 @@ from datapkgs import adult
 
 The previous statement above will import a [pandas DataFrame][4] that contains the complete Adult data set as well as attributes that describe the data within.
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 [1]: http://archive.ics.uci.edu/ml/datasets/Census+Income
 [2]: http://archive.ics.uci.edu/ml/index.php
 [3]: https://github.com/croach/datapkgs
